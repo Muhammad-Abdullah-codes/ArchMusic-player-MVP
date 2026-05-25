@@ -1,7 +1,5 @@
 # 🎵 ArchMusic Player
 
-![ArchMusic Player Mockup](https://via.placeholder.com/1200x600/171717/22c55e?text=ArchMusic+Player)
-
 **ArchMusic** is a modern, web-based music player built as part of the Web Development Internship at **Arch Technologies**. It features a sleek, dark-mode user interface, real-time audio manipulation, and dynamic playlist functionality without relying on an external backend.
 
 ---
